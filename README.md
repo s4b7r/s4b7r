@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: not much information in this profile readme so far :wink: 
+
 <!--
 **s4b7r/s4b7r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
