@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- ⚡ Fun fact: not much information in this profile readme so far :wink: 
+[Landing page](http://s4b7r.github.io)
 
 [Knowledge base](https://github.com/s4b7r/foam-kb)
 
