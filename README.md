@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[Landing page](http://s4b7r.github.io)
+[About](http://s4b7r.github.io)
 
 [Knowledge base](https://github.com/s4b7r/foam-kb)
 
