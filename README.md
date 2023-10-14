@@ -14,6 +14,7 @@ This may or may not be the chronological order of their creation.
 
 - [Code samples etc. for GIN lecture](https://github.com/s4b7r/gin-public)
 - [Solutions and experiments of GIN 21/22](https://github.com/s4b7r/gin2122-exercises)
+- [Fun with Classes: Playing around with Object-Oriented Programming](https://github.com/s4b7r/oop-introproject)
 
 <!--
 **s4b7r/s4b7r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
