@@ -4,6 +4,8 @@
 
 [Knowledge base](https://github.com/s4b7r/foam-kb)
 
+I do work related to Ianus Simulation as [@s4b7r-ianus](https://github.com/s4b7r-ianus).
+
 ## Materials Science Workflows
 
 - Classical Spin Dynamics Workflow: can also be found in the [MaterialDigital Workflow Store](https://workflows.material-digital.de/workflow/76)
